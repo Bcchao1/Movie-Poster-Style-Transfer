@@ -1,0 +1,3 @@
+This is where we put the trained models that we think yield the best aesthetically pleasing results.
+To enable upload and save upload disk space, this text file is here instead of the trained files. One trained example is
+included below for reference.
