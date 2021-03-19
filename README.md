@@ -1,5 +1,6 @@
 # Movie-Poster-Style-Transfer
 Genre theme Style transfer on Movie Posters
+by Bryan & Alison
 
 SEE Read Me Doc in drive folder for more details. 
 
