@@ -1,5 +1,5 @@
 # Movie-Poster-Style-Transfer
-Genre theme Style transfer on Movie Posters
+Genre & theme Style transfer on Movie Posters
 
 by Bryan & Alison
 
